@@ -1,0 +1,9 @@
+streamlit
+numpy
+torch
+rasterio
+segmentation-models-pytorch
+transformers
+matplotlib
+Pillow
+scipy
